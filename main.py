@@ -1,3 +1,1 @@
-import streamlit as st
-
-st.title("hello")
+#https://ja.linux-console.net/?p=26886
